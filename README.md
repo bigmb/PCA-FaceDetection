@@ -8,7 +8,7 @@ PCA is a statistical approach used for reducing the number of variables in face 
 
 <img src="https://github.com/bigmb/PCA-FaceDetection/blob/master/facef.PNG" width="450">
 
-<img src="https://github.com/bigmb/PCA-FaceDetection/blob/master/process.PNG" width="450">
+<img src="https://github.com/bigmb/PCA-FaceDetection/blob/master/process.PNG" width="650">
 
 # Conclusion
 
