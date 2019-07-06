@@ -1,6 +1,6 @@
 # PCA-FaceDetection
 
-Project done in Matlab - 1st Semester Project
+Project done in Matlab - 1st Semester Maths Project
 
 Eigenfaces is the name given to a set of eigenvectors when they are used in the computer vision problem of human face recognition.The eigenvectors are derived from the covariance matrix of the probability distribution over the high-dimensional vector space of face images. The eigenfaces themselves form a basis set of all images used to construct the covariance matrix. This produces dimension reduction by allowing the smaller set of basis images to represent the original training images. Classification can be achieved by comparing how faces are represented by the basis set.
 
