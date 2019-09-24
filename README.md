@@ -1,6 +1,8 @@
 # PCA-FaceDetection
 
-Project done in Matlab - 1st Semester Maths Project
+1st Semester Masters Applied Mathematics Project
+
+Software : Matlab
 
 Blog : https://medium.com/@malavbateriwala/principal-component-analysis-pca-basics-uses-and-its-application-for-face-recognition-17f4d5deff70
 
